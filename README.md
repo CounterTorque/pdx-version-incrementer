@@ -1,5 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit)
 [![python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org)
+[![tests](https://github.com/CounterTorque/pdx-version-incrementer/actions/workflows/python-app.yml/badge.svg)](https://github.com/CounterTorque/pdx-version-incrementer/actions/workflows/python-app.yml)
+
 
 
 # pdx-version-incrementer
