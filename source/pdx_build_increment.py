@@ -13,7 +13,6 @@ class PDXFile:
         self.launchSoundPath = ""
 
 
-
 def read_pdx_file(file_path: str) -> PDXFile:
     pdx_file = PDXFile()
 
