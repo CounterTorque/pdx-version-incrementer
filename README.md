@@ -22,7 +22,7 @@ It will read your pdx file, increment the BuildNumber by 1, then write out the f
 
 I recommend you clone this as a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) inside your own project.
 
-In the example tasks.json below, you can see that this has been cloned into a tools folder then it's source repo.
+In the example tasks.json below, you can see that this has been cloned into a tools folder inside another source repo.
 
 This will add a .gitmodules into your root repository. 
 
@@ -48,7 +48,7 @@ This will add a .gitmodules into your root repository.
 
 ## Optional 
 
-- Using the [PDX Debug] (https://github.com/midouest/vscode-playdate-debug) is easy to augment the `.vscode/tasks.json`. 
+- Using the [PDX Debug](https://github.com/midouest/vscode-playdate-debug) is easy to augment the `.vscode/tasks.json`. 
 
 ```json
 // .vscode/tasks.json
